@@ -1,0 +1,7 @@
+{
+  "name": "HOK VIP Mod Menu",
+  "description": "A premium VIP dashboard for Honor of Kings players featuring advanced module controls, VPN server management, and anti-ban bypass simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
